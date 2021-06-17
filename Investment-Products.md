@@ -14,7 +14,8 @@
 - Credit Ratings:
   - Bonds are rated by popular agencies like Standard and Poor's, and Moody's;
 - Definitions:
-  - **Face Value**: 
+  - **Face Value/Par**:
+  - **Coupon**:
 ## II. Individual Stocks
 ## III. Mutual Funds
 ## IV. ETFs
