@@ -6,6 +6,15 @@
 - [Options](#v-Options)
 
 ## I. Bonds
+- Types of Bonds:
+  - Government
+  - Corporate
+  - Municipal
+  - Mortage
+- Credit Ratings:
+  - Bonds are rated by popular agencies like Standard and Poor's, and Moody's;
+- Definitions:
+  - **Face Value**: 
 ## II. Individual Stocks
 ## III. Mutual Funds
 ## IV. ETFs
