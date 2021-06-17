@@ -22,9 +22,13 @@
   - **Face Value/Par**:
   - **Coupon**:
 - **How Interest Rates Affect Bond Prices?**
+  - For example, if a current bond is issued with a coupon rate of 4%, the value of the bond automatically decreases if interest rates rise and a new bond with identical terms is issued with a 6% coupon. This reduction in market value occurs to compensate investors for purchasing a bond with lower interest payments than newly issued bonds. Conversely, if interest rates decline and new bonds were issued with 2% rates, the market value of the original bond increases.
+  - Typically, longer-term bonds carry higher coupon rates than short-term bonds because the default and interest rate risk inherent in all bond investments increases with time. This simply means the longer you hold a bond, the more risk there is of interest rate changes rendering your bond less valuable or the issuing entity defaulting on its obligations, leaving the bond unpaid.
+  - (**???!!!**) However, if you invest in highly rated municipal bonds and do not need to access your investment funds for several years, long-term bonds can be a very lucrative investment when purchased at the right time.
 - Links:
-  - 
+  - https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
   - https://www.investopedia.com/terms/t/treasurynote.asp
+  - 
 ## II. Individual Stocks
 ## III. Mutual Funds
 ## IV. ETFs
