@@ -1,6 +1,9 @@
 # Investment Products
 - Fixed-Income Security
   - [Bonds](#i-bonds)
+  - CDs
+  - Money Markets
+  - Preferred Shares
 - [Individual Stocks](#i-individual-stocks)
 - [Mutual Funds](#iii-mutual-funds)
 - [ETFs](#iv-etfs)
