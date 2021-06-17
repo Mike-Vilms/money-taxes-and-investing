@@ -21,6 +21,10 @@
 - Definitions:
   - **Face Value/Par**:
   - **Coupon**:
+- **How Interest Rates Affect Bond Prices?**
+- Links:
+  - 
+  - https://www.investopedia.com/terms/t/treasurynote.asp
 ## II. Individual Stocks
 ## III. Mutual Funds
 ## IV. ETFs
