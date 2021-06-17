@@ -1,7 +1,7 @@
 # Investment Products
 - Fixed-Income Security
   - [Bonds](#i-bonds)
-  - CDs
+  - [CDs](#ii-cds)
   - Money Markets
   - Preferred Shares
 - [Individual Stocks](#i-individual-stocks)
@@ -30,6 +30,9 @@
   - (???) https://www.investopedia.com/articles/investing/110615/5-reasons-invest-municipal-bonds-when-fed-hikes-rates.asp
   - https://www.investopedia.com/terms/t/treasurynote.asp
   - 
+### II. CDs
+- Links:
+  - https://www.investopedia.com/terms/c/certificateofdeposit.asp
 ## II. Individual Stocks
 ## III. Mutual Funds
 ## IV. ETFs
