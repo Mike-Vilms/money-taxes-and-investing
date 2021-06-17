@@ -8,7 +8,7 @@
 ## I. Bonds
 - Types of Bonds:
   - Government
-  - Corporate
+  - **Corporate**: are issued by companies. Companies issue bonds—rather than seek bank loans for debt financing in many cases—because bond markets offer more favorable terms and lower interest rates.
   - Municipal
   - Mortage
 - Credit Ratings:
