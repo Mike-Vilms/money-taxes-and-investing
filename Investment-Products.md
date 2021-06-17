@@ -27,6 +27,7 @@
   - (**???!!!**) However, if you invest in highly rated municipal bonds and do not need to access your investment funds for several years, long-term bonds can be a very lucrative investment when purchased at the right time.
 - Links:
   - https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
+  - (???) https://www.investopedia.com/articles/investing/110615/5-reasons-invest-municipal-bonds-when-fed-hikes-rates.asp
   - https://www.investopedia.com/terms/t/treasurynote.asp
   - 
 ## II. Individual Stocks
