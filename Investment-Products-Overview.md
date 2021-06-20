@@ -9,8 +9,7 @@
 - [ETFs](#iv-etfs)
 - [Options](#v-Options)
 
-## Fixed-Income Security
-### I. Bonds
+## I. Bonds
 - Types of Bonds:
   - Government
   - **Corporate**: are issued by companies. Companies issue bonds - rather than seek bank loans for debt financing in many cases - because bond markets offer more favorable terms and lower interest rates.
@@ -26,19 +25,22 @@
   - Typically, longer-term bonds carry higher coupon rates than short-term bonds because the default and interest rate risk inherent in all bond investments increases with time. This simply means the longer you hold a bond, the more risk there is of interest rate changes rendering your bond less valuable or the issuing entity defaulting on its obligations, leaving the bond unpaid.
   - (**???!!!**) However, if you invest in highly rated municipal bonds and do not need to access your investment funds for several years, long-term bonds can be a very lucrative investment when purchased at the right time.
 
-#### Government Bonds
+### Government Bonds
 - A government bond is a debt security issued by a government to support government spending and obligations. Government bonds can pay periodic interest payments called coupon payments. Government bonds issued by national governments are often considered low-risk investments since the issuing government backs them.
 - Government bonds may also be known as sovereign debt.
 - Government bonds are considered low-risk investments since the government backs them. There are various types of bonds that are offered by the U.S. Treasury are considered to be among the safest in the world.
 - **Government bonds assist in funding deficits in the federal budget and are used to raise capital for various projects such as infrastructure spending. However, government bonds are also used by the Federal Reserve Bank to control the nation's money supply.**
 - **When the Federal Reserve repurchases U.S. government bonds, the money supply increases throughout the economy as sellers receive funds to spend or invest in the market. Any funds deposited into banks are, in turn, used by those financial institutions to loan to companies and individuals, further boosting economic activity.**
 
+### Corporate Bonds
+
 ### Links:
   - https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
   - (???) https://www.investopedia.com/articles/investing/110615/5-reasons-invest-municipal-bonds-when-fed-hikes-rates.asp
   - https://www.investopedia.com/terms/t/treasurynote.asp
   - 
-### II. CDs
+
+## II. CDs
 - Links:
   - https://www.investopedia.com/terms/c/certificateofdeposit.asp
 ## II. Individual Stocks
