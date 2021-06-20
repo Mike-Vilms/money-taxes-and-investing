@@ -24,6 +24,8 @@
 - Definitions:
   - **Face Value/Par**:
   - **Coupon**:
+  - **Yield**:
+ 
 - Credit Ratings:
   - Bonds are rated by popular agencies like Standard and Poor's, and Moody's;
 - **How Interest Rates Affect Bond Prices?**
