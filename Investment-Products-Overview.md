@@ -31,6 +31,13 @@
 - Government bonds are considered low-risk investments since the government backs them. There are various types of bonds that are offered by the U.S. Treasury are considered to be among the safest in the world.
 - **Government bonds assist in funding deficits in the federal budget and are used to raise capital for various projects such as infrastructure spending. However, government bonds are also used by the Federal Reserve Bank to control the nation's money supply.**
 - **When the Federal Reserve repurchases U.S. government bonds, the money supply increases throughout the economy as sellers receive funds to spend or invest in the market. Any funds deposited into banks are, in turn, used by those financial institutions to loan to companies and individuals, further boosting economic activity.**
+- There are various types of bonds offered by the U.S. Treasury that have various maturities. Examples:
+ - Savings Bonds
+ - Treasury Notes
+ - Treasury Bonds
+ - Treasury Inflation-Protected Securities (TIPS)
+
+
 
 ### Corporate Bonds
 
