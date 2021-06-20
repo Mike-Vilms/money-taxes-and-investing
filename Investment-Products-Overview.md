@@ -39,8 +39,8 @@
 - **When the Federal Reserve repurchases U.S. government bonds, the money supply increases throughout the economy as sellers receive funds to spend or invest in the market. Any funds deposited into banks are, in turn, used by those financial institutions to loan to companies and individuals, further boosting economic activity.**
 - There are various types of bonds offered by the U.S. Treasury that have various maturities. Examples:
   - **Savings Bonds**
-  - **Treasury Notes**
-  - **Treasury Bonds**
+  - **Treasury Notes (T-Notes)**
+  - **Treasury Bonds (T-Bonds)**
   - **Treasury Inflation-Protected Securities (TIPS)**
 
 #### Saving Bonds
@@ -56,16 +56,28 @@
 ### Corporate Bonds
 
 ### Links:
-  - https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
-  - (???) https://www.investopedia.com/articles/investing/110615/5-reasons-invest-municipal-bonds-when-fed-hikes-rates.asp
-  - https://www.investopedia.com/terms/t/treasurynote.asp
-  - 
+- https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
+- (???) https://www.investopedia.com/articles/investing/110615/5-reasons-invest-municipal-bonds-when-fed-hikes-rates.asp
+
+- https://www.investopedia.com/terms/g/government-bond.asp
+- https://www.investopedia.com/terms/t/treasurynote.asp
+
+
 
 ## II. CDs
 - Links:
   - https://www.investopedia.com/terms/c/certificateofdeposit.asp
+
+
+
 ## II. Individual Stocks
+
+
+
 ## III. Mutual Funds
+
+
+
 ## IV. ETFs
 
 ### ETF Providers
