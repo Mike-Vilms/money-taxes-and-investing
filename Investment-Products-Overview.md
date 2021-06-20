@@ -1,11 +1,12 @@
 # Investment Products
 - Fixed-Income Security
-  - [Bonds](#i-bonds)
+  - [Bonds](#1-bonds)
     - [Govenment Bonds]()
       - [Savings Bonds]()
       - [Treasury Notes]()
       - [Treasury Bonds]()
       - [TIPS]()
+    - [Yeild Curve]()  
     - [Corporate Bonds]()
   - [CDs](#ii-cds)
   - Money Markets
@@ -15,7 +16,7 @@
 - [ETFs](#iv-etfs)
 - [Options](#v-Options)
 
-## I. Bonds
+## 1. Bonds
 - Types of Bonds:
   - Government
   - **Corporate**: are issued by companies. Companies issue bonds - rather than seek bank loans for debt financing in many cases - because bond markets offer more favorable terms and lower interest rates.
