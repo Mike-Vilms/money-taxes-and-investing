@@ -34,7 +34,7 @@
   - Typically, longer-term bonds carry higher coupon rates than short-term bonds because the default and interest rate risk inherent in all bond investments increases with time. This simply means the longer you hold a bond, the more risk there is of interest rate changes rendering your bond less valuable or the issuing entity defaulting on its obligations, leaving the bond unpaid.
   - (**???!!!**) However, if you invest in highly rated municipal bonds and do not need to access your investment funds for several years, long-term bonds can be a very lucrative investment when purchased at the right time.
 
-### Government Bonds
+### 1.1 Government Bonds
 - A government bond is a debt security issued by a government to support government spending and obligations. Government bonds can pay periodic interest payments called coupon payments. Government bonds issued by national governments are often considered low-risk investments since the issuing government backs them.
 - Government bonds may also be known as sovereign debt.
 - Government bonds are considered low-risk investments since the government backs them. There are various types of bonds that are offered by the U.S. Treasury are considered to be among the safest in the world.
@@ -55,8 +55,9 @@
 #### TIPS
 
 
+### 1.2 Yeild Curve
 
-### Corporate Bonds
+### 1.3 Corporate Bonds
 
 ### Links:
 - https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
