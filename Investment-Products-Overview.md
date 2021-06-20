@@ -28,7 +28,10 @@
 
 #### Government Bonds
 - A government bond is a debt security issued by a government to support government spending and obligations. Government bonds can pay periodic interest payments called coupon payments. Government bonds issued by national governments are often considered low-risk investments since the issuing government backs them.
-- 
+- Government bonds may also be known as sovereign debt.
+- Government bonds are considered low-risk investments since the government backs them. There are various types of bonds that are offered by the U.S. Treasury are considered to be among the safest in the world.
+- **Government bonds assist in funding deficits in the federal budget and are used to raise capital for various projects such as infrastructure spending. However, government bonds are also used by the Federal Reserve Bank to control the nation's money supply.**
+- **When the Federal Reserve repurchases U.S. government bonds, the money supply increases throughout the economy as sellers receive funds to spend or invest in the market. Any funds deposited into banks are, in turn, used by those financial institutions to loan to companies and individuals, further boosting economic activity.**
 
 ### Links:
   - https://www.investopedia.com/ask/answers/why-interest-rates-have-inverse-relationship-bond-prices/
