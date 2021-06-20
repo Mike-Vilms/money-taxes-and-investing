@@ -3,8 +3,8 @@
   - [Bonds](#i-bonds)
     - [Govenment Bonds]()
       - [Savings Bonds]()
-      - [Tresury Notes]()
-      - [Tresury Bonds]()
+      - [Treasury Notes]()
+      - [Treasury Bonds]()
       - [TIPS]()
     - [Corporate Bonds]()
   - [CDs](#ii-cds)
@@ -45,9 +45,9 @@
 
 #### Saving Bonds
 
-#### Tresury Notes
+#### Treasury Notes
 
-#### Tresury Bonds
+#### Treasury Bonds
 
 #### TIPS
 
