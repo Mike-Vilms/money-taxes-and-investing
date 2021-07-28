@@ -6,4 +6,4 @@
 Ticker | Title | Details | iShares Link | YF Link
 --- | --- | --- | --- | --- |
 | **FXI** | iShares China Large-Cap ETF  | Details| **[iShares](https://www.ishares.com/us/products/239536/ishares-china-largecap-etf)** | **[YF](https://finance.yahoo.com/quote/FXI)** |
-
+| **MCHI** | iShares MSCI China ETF  | Details| **[iShares](https://www.ishares.com/us/products/239619/ishares-msci-china-etf)** | **[YF](https://finance.yahoo.com/quote/MCHI)** |
