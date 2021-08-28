@@ -10,3 +10,8 @@ Ticker | Title | Details | iShares Link | YF Link
 | **MCHI** | iShares MSCI China ETF | Exposure to large and mid-sized companies in China| **[iShares](https://www.ishares.com/us/products/239619/ishares-msci-china-etf)** | **[YF](https://finance.yahoo.com/quote/MCHI)** |
 | **ECNS** | iShares MSCI China Small-Cap ETF  | Exposure to small public companies in China | **[iShares](https://www.ishares.com/us/products/239620/ishares-msci-china-smallcap-etf)** | **[YF](https://finance.yahoo.com/quote/ECNS)** |
 | **CNYA** | iShares MSCI China A ETF | Seek access to the Chinese A-Share stock market, which has historically been largely inaccessible to international investors | **[iShares](https://www.ishares.com/us/products/273318/ishares-msci-china-a-etf)** | **[YF](https://finance.yahoo.com/quote/CNYA)** |
+
+### Europe ETFs
+Ticker | Title | Details | Expense ratio | iShares Link | YF Link
+--- | --- | --- | --- | --- | --- |
+| **VGK** | Vanguard FTSE Europe ETF  | Seeks to track the performance of the FTSE Developed Europe All Cap Index, which measures the investment return of stocks issued by companies located in the major markets of Europe. | 0.08% | **[Vanguard](https://investor.vanguard.com/etf/profile/VGK)** | **[YF](https://finance.yahoo.com/quote/VGK)** |
