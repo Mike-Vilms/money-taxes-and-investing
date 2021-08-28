@@ -15,3 +15,4 @@ Ticker | Title | Details | iShares Link | YF Link
 Ticker | Title | Details | Expense ratio | iShares Link | YF Link
 --- | --- | --- | --- | --- | --- |
 | **VGK** | Vanguard FTSE Europe ETF  | Seeks to track the performance of the FTSE Developed Europe All Cap Index, which measures the investment return of stocks issued by companies located in the major markets of Europe. | 0.08% | **[Vanguard](https://investor.vanguard.com/etf/profile/VGK)** | **[YF](https://finance.yahoo.com/quote/VGK)** |
+| **IEUR** | iShares Core MSCI Europe ETF  | The iShares Core MSCI Europe ETF seeks to track the investment results of an index composed of large-, mid- and small-capitalization European equities. | 0.09% | **[iShares](https://www.ishares.com/us/products/264617/ishares-core-msci-europe-etf)** | **[YF](https://finance.yahoo.com/quote/IEUR)** |
