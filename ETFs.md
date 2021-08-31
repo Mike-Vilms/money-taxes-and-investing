@@ -1,5 +1,7 @@
 # ETFs
 
+- [Covered Call ETF](#Covered-Call-ETF)
+
 ## BlackRock ETFs
 - https://www.ishares.com/us/products/etf-investments
 
@@ -17,3 +19,9 @@ Ticker | Title | Details | Expense ratio | iShares Link | YF Link
 | **VGK** | Vanguard FTSE Europe ETF  | Seeks to track the performance of the FTSE Developed Europe All Cap Index, which measures the investment return of stocks issued by companies located in the major markets of Europe. | 0.08% | **[Vanguard](https://investor.vanguard.com/etf/profile/VGK)** | **[YF](https://finance.yahoo.com/quote/VGK)** |
 | **IEUR** | iShares Core MSCI Europe ETF  | The iShares Core MSCI Europe ETF seeks to track the investment results of an index composed of large-, mid- and small-capitalization European equities. | 0.09% | **[iShares](https://www.ishares.com/us/products/264617/ishares-core-msci-europe-etf)** | **[YF](https://finance.yahoo.com/quote/IEUR)** |
 | **EUFN** | iShares MSCI Europe Financials ETF  | The iShares MSCI Europe Financials ETF seeks to track the investment results of an index composed of developed market European equities in the financials sector. | 0.48% | **[iShares](https://www.ishares.com/us/products/239645/ishares-msci-europe-financials-etf#/)** | **[YF](https://finance.yahoo.com/quote/EUFN)** |
+
+### Covered Call ETF
+Ticker | Title | Details | Expense ratio | iShares Link | YF Link
+--- | --- | --- | --- | --- | --- |
+| **QYLD** | Global X NASDAQ 100 Covered Call ETF  | The Global X Nasdaq 100 Covered Call ETF (QYLD) follows a “covered call” or “buy-write” strategy, in which the Fund buys the stocks in the Nasdaq 100 Index and “writes” or “sells” corresponding call options on the same index | 0.60% | **[Global X](https://www.globalxetfs.com/funds/qyld/)** | **[YF](https://finance.yahoo.com/quote/QYLD)** |
+| **XYLD** | Global X S&P 500 Covered Call ETF  | The Global X S&P 500 Covered Call ETF (XYLD) follows a “covered call” or “buy-write” strategy, in which the Fund buys the stocks in the S&P 500 Index and “writes” or “sells” corresponding call options on the same index | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLD/)** | **[YF](https://finance.yahoo.com/quote/XYLD)** |
