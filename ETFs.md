@@ -21,7 +21,9 @@ Ticker | Title | Details | Expense ratio | iShares Link | YF Link
 | **EUFN** | iShares MSCI Europe Financials ETF  | The iShares MSCI Europe Financials ETF seeks to track the investment results of an index composed of developed market European equities in the financials sector. | 0.48% | **[iShares](https://www.ishares.com/us/products/239645/ishares-msci-europe-financials-etf#/)** | **[YF](https://finance.yahoo.com/quote/EUFN)** |
 
 ### Covered Call ETF
-Ticker | Title | Details | Expense ratio | iShares Link | YF Link
---- | --- | --- | --- | --- | --- |
-| **QYLD** | Global X NASDAQ 100 Covered Call ETF  | The Global X Nasdaq 100 Covered Call ETF (QYLD) follows a “covered call” or “buy-write” strategy, in which the Fund buys the stocks in the Nasdaq 100 Index and “writes” or “sells” corresponding call options on the same index | 0.60% | **[Global X](https://www.globalxetfs.com/funds/qyld/)** | **[YF](https://finance.yahoo.com/quote/QYLD)** |
-| **XYLD** | Global X S&P 500 Covered Call ETF  | The Global X S&P 500 Covered Call ETF (XYLD) follows a “covered call” or “buy-write” strategy, in which the Fund buys the stocks in the S&P 500 Index and “writes” or “sells” corresponding call options on the same index | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLD/)** | **[YF](https://finance.yahoo.com/quote/XYLD)** |
+Ticker | Title | Expense ratio | iShares Link | YF Link
+--- | --- | --- | --- | --- |
+| **QYLD** | Global X NASDAQ 100 Covered Call ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/qyld/)** | **[YF](https://finance.yahoo.com/quote/QYLD)** |
+| **XYLD** | Global X S&P 500 Covered Call ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLD/)** | **[YF](https://finance.yahoo.com/quote/XYLD)** |
+| **QYLG** | Global X Nasdaq 100 Covered Call & Growth ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/QYLG/)** | **[YF](https://finance.yahoo.com/quote/QYLG)** |
+| **XYLG** | Global X	S&P 500 Covered Call & Growth ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLG/)** | **[YF](https://finance.yahoo.com/quote/XYLG)** |
