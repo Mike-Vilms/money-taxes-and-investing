@@ -31,3 +31,6 @@
 ## How Dividends Are Taxed?
 #### Qualified Dividend
 #### Ordinary Dividends
+#### Dividends as Return of Capital
+- MLPs:
+  - *How Do I Invest In MLPs?*: https://www.youtube.com/watch?v=wyiusWy3XPE 
