@@ -1,14 +1,14 @@
 # Taxes
-- [Income Tax](#Income Taxes)
-  - [Federal Income Tax](#Federal-Income-Tax)
-  - [State Income Tax](#State-Income-Tax)
-- [Sales Taxes](#Sales-Taxes)
-- [Capital Gain Tax](#Capital-Gain-Tax)
-  - [Short-Term Capital Gains Tax](#Short-Term-Capital-Gains-Tax)
-  - [Long-Term Capital Gains Tax](#Long-Term-Capital-Gains-Tax)
-- [How Dividends Are Taxed](#How-Dividends-Are-Taxed)
-  - [Qualified Dividend](#Qualified-Dividend)
-  - [Ordinary Dividends](#Ordinary-Dividends)
+- **[Income Tax](#Income-Taxes)**
+  - **[Federal Income Tax](#Federal-Income-Tax)**
+  - **[State Income Tax](#State-Income-Tax)**
+- **[Sales Taxes](#Sales-Taxes)**
+- **[Capital Gain Tax](#Capital-Gain-Tax)**
+  - **[Short-Term Capital Gains Tax](#Short-Term-Capital-Gains-Tax)**
+  - **[Long-Term Capital Gains Tax](#Long-Term-Capital-Gains-Tax)**
+- **[How Dividends Are Taxed](#How-Dividends-Are-Taxed)**
+  - **[Qualified Dividend](#Qualified-Dividend)**
+  - **[Ordinary Dividends](#Ordinary-Dividends)**
 
 ## Income Taxes
 #### Federal Income Tax
