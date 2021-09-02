@@ -1,6 +1,13 @@
 # Taxes
 
 ## Income Taxes
+#### Federal Income Tax
+- Federal marginal tax brackets:
+![image](https://user-images.githubusercontent.com/85560091/131778764-bfa32368-c97d-4c2f-a916-66e0f043f632.png)
+#### State Income Tax
+- No taxes for Texas
+
+## Sales Taxes
 
 ## Capital Gain Tax
 #### Short-Term Capital Gains Tax
