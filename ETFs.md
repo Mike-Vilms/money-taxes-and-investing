@@ -27,3 +27,5 @@ Ticker | Title | Expense ratio | iShares Link | YF Link
 | **XYLD** | Global X S&P 500 Covered Call ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLD/)** | **[YF](https://finance.yahoo.com/quote/XYLD)** |
 | **QYLG** | Global X Nasdaq 100 Covered Call & Growth ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/QYLG/)** | **[YF](https://finance.yahoo.com/quote/QYLG)** |
 | **XYLG** | Global X	S&P 500 Covered Call & Growth ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLG/)** | **[YF](https://finance.yahoo.com/quote/XYLG)** |
+| **JEPI** | - | - | - | **[YF](https://finance.yahoo.com/quote/JEPI)** |
+| **NUSI** | - | - | - | **[YF](https://finance.yahoo.com/quote/NUSI)** |
