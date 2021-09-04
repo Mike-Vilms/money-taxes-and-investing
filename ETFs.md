@@ -36,6 +36,6 @@ Ticker | Title | Expense ratio | iShares Link | YF Link
 Ticker | Title | Expense ratio | iShares Link | YF Link
 --- | --- | --- | --- | --- |
 | **IAU** | iShares Gold Trust | 0.25% | **[iShares](https://www.ishares.com/us/products/239561/ishares-gold-trust-fund#/)** | **[YF](https://finance.yahoo.com/quote/IAU)** |
-| **SLV** | iShares Silver Trust | 0.50 | **[iShares](https://www.ishares.com/us/products/239855/ishares-silver-trust-fund)** | **[YF](https://finance.yahoo.com/quote/SLV)** |
-| **GLD** | - | - | - | **[YF](https://finance.yahoo.com/quote/GLD)** |
+| **SLV** | iShares Silver Trust | 0.50% | **[iShares](https://www.ishares.com/us/products/239855/ishares-silver-trust-fund)** | **[YF](https://finance.yahoo.com/quote/SLV)** |
+| **GLD** | SPDR Gold Shares | 0.40% | **[State Street](https://www.ssga.com/us/en/institutional/etfs/funds/spdr-gold-shares-gld)** | **[YF](https://finance.yahoo.com/quote/GLD)** |
 
