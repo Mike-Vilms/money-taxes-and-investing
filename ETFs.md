@@ -36,5 +36,6 @@ Ticker | Title | Expense ratio | iShares Link | YF Link
 Ticker | Title | Expense ratio | iShares Link | YF Link
 --- | --- | --- | --- | --- |
 | **IAU** | iShares Gold Trust | 0.25% | **[iShares](https://www.ishares.com/us/products/239561/ishares-gold-trust-fund#/)** | **[YF](https://finance.yahoo.com/quote/IAU)** |
-| **JEPI** | - | - |  | **[YF](https://finance.yahoo.com/quote/JEPI)** |
+| **SLV** | iShares Silver Trust | 0.50 | **[iShares](https://www.ishares.com/us/products/239855/ishares-silver-trust-fund)** | **[YF](https://finance.yahoo.com/quote/SLV)** |
+| **GLD** | - | - | - | **[YF](https://finance.yahoo.com/quote/GLD)** |
 
