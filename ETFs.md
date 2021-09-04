@@ -29,3 +29,12 @@ Ticker | Title | Expense ratio | iShares Link | YF Link
 | **XYLG** | Global X	S&P 500 Covered Call & Growth ETF | 0.60% | **[Global X](https://www.globalxetfs.com/funds/XYLG/)** | **[YF](https://finance.yahoo.com/quote/XYLG)** |
 | **JEPI** | - | - | - | **[YF](https://finance.yahoo.com/quote/JEPI)** |
 | **NUSI** | - | - | - | **[YF](https://finance.yahoo.com/quote/NUSI)** |
+
+- *QYLD vs JEPI vs NUSI | Best Covered Call Dividend ETFs Compared*: https://www.youtube.com/watch?v=bb0jLUpq9Ks
+
+### Gold/Silver ETFs
+Ticker | Title | Expense ratio | iShares Link | YF Link
+--- | --- | --- | --- | --- |
+| **IAU** | iShares Gold Trust | 0.25% | **[iShares](https://www.ishares.com/us/products/239561/ishares-gold-trust-fund#/)** | **[YF](https://finance.yahoo.com/quote/IAU)** |
+| **JEPI** | - | - |  | **[YF](https://finance.yahoo.com/quote/JEPI)** |
+
