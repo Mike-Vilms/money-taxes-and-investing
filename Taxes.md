@@ -36,3 +36,4 @@
   - *How Do I Invest In MLPs?*: https://www.youtube.com/watch?v=wyiusWy3XPE 
   - *What makes MLPs and REITs different than Dividend Stocks? | Investing for Beginners*: https://www.youtube.com/watch?v=jYtoybPyb80
   - *All About MLPs (Master Limited Partnerships), K-1s and HUGE Dividend Distributions*: https://www.youtube.com/watch?v=7_MTUbhvDKQ
+  - *Master Limited Partnerships Explained [Huge Dividends vs Tax Issues]*: https://www.youtube.com/watch?v=dNX9uwkeG2c
