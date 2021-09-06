@@ -34,3 +34,4 @@
 #### Dividends as Return of Capital
 - MLPs:
   - *How Do I Invest In MLPs?*: https://www.youtube.com/watch?v=wyiusWy3XPE 
+  - *What makes MLPs and REITs different than Dividend Stocks? | Investing for Beginners*: https://www.youtube.com/watch?v=jYtoybPyb80
